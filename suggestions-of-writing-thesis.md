@@ -16,11 +16,25 @@
 
 ## 一定要使用 Word 样式
 
-Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一句话大家应该也有所耳闻：HR 绝不相信你的简历上写的「精通 Word (Office)」。我们真的会用 Microsoft Word 吗？恐怕大多数人并不会吧。
+Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一句话大家应该也有所耳闻：HR 绝不相信你在简历上写的**精通 Word (Office)**。我们真的会使用 Microsoft Word 吗？恐怕大多数人并不会吧。
 
-我现在还清楚记得，一些同学上课或者听讲座的场景：背上自己沉重的电脑，早早来到教室，坐在前排，电脑开机，打开 Microsoft Word 或者 WPS Office，做好了做笔记的一切准备，然后掏出手机开始玩。台上的老师讲得眉飞色舞，台下的同学不停地敲着键盘，将老师讲的内容记在 Word 里面。一节课下来，老师口干舌燥，同学手指酸痛，Word 里密密麻麻。点击笔记文件中的样式窗格，全是「正文」，完全没有结构可言。
+我现在还清晰地记得，一些同学上课或者听讲座的场景：背上自己沉重的电脑，早早来到教室，坐在前排，电脑开机，打开 Microsoft Word 或者 WPS Office，做好了做笔记的一切准备，然后掏出手机开始玩。台上的老师讲得眉飞色舞，台下的同学不停地敲着键盘，将老师讲的内容记在 Word 里面。一节课下来，老师口干舌燥，同学手指酸痛，Word 里密密麻麻，然而点击 Word 文件中的样式窗格，全是「正文」，完全没有结构可言。
 
-可能你说我把标题文字部分字号设置为三号字，字体加粗，前后各空一行，居中对齐，就是一级标题了。可是这是你觉得的标题，并不是 Word 觉得的标题，如果 Word 像黄晓明一样霸道，他一定会要用「明学」里一句经典语录反驳你：我不要你觉得，我要我觉得。
+可能你说我把标题文字部分字号设置为三号字，字体加粗，前后各空一行，居中对齐，就是一级标题了。可是这是你觉得的标题，并不是 Word 觉得的标题，如果 Word 像黄晓明一样霸道，它一定会要用那句经典「明学」语录反驳你：我不要你觉得，我要我觉得。
+
+让我们来看一看各大厂是如何介绍自家产品的：
+
+- [Microsoft Word](https://products.office.com/en-us/word) —— Word Processing Software
+- [Google Docs](https://docs.google.com) —— Free Online Documents for Personal Use
+- [OpenOffice](http://www.openoffice.org) —— The Free and Open Productivity Suite
+- [LibreOffice](https://www.libreoffice.org) —— Free Office Suit
+- [WPS Office](https://www.wps.com) —— Complete office suite with better templates
+- [Notion](https://www.notion.so) —— Write, plan, collaborate, and get organized. Notion is all you need — in one tool.
+- [Evernote](https://evernote.com/intl/en/)（印象笔记） —— Your notes. Organized. Effortless.
+
+是不是觉得前 4 个软件都是为办公（Office）而生的？后面 2 个才是真正的笔记工具。这与 Kieran Healy 提出的 [The Office Model & The Engineering Model](http://plain-text.co) 有异曲同工之妙：Word 这类文字处理软件不是为学术而生，而是为办公而生。
+
+学术文章往往是有一定的结构的，Word 开始并不能满足这种需求。好在 Word 2003 新增加了样式（Style）功能，
 
 ### 各级标题
 
@@ -189,6 +203,6 @@ Word 原生自带一个引用（References），我没有使用过[^q]，如果�
 
 
 
-## 字体的一些建议
+## 其他一些建议
 
 思源宋体

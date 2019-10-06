@@ -1,8 +1,8 @@
 # 写毕业论文的几点建议
 
-> 作者：任涛
+> 作者：[任涛](https://tomben.me)
 >
-> 邮箱：me@tomben.me
+> 邮箱：me AT tomben.me
 >
 > 版本：1.0（公众号版本为终版）
 >
@@ -16,18 +16,20 @@
 
 ## 写在前面
 
-没有一点点防备，毕业论文就这样来了。几个月前，我本来打算写一个毕业论文 LaTeX 模板，然而由于时间原因和自身水平问题，一直没有完成。于是我就放弃写 LaTeX 模板了，毕竟 LaTeX 受众那么小，写了估计也就我自己用。但是我总得写点什么吧？于是就有了此文。
+没有一点点防备，毕业论文就这样来了。
 
-需要注意的是，本文不是给你关于毕业论文内容写作的建议，不涉及如何写摘要、写文献综述、写结论等问题，而是关于如何**写**论文的建议，确切的说，就是写论文过程中，除文章内容之外，你应该关心的其他东西。
+几个月前，我本来打算写一个本科毕业论文的 LaTeX 模板，然而由于时间原因和自身水平问题，一直没有完成。于是我就放弃写 LaTeX 模板了，毕竟 LaTeX 受众那么小，写了估计也就我自己用。但是我总得写点什么吧？于是就有了此文。
 
-虽然文中都是以毕业论文为写作目标，但我认为其对于通用的学术论文写作也是具有借鉴意义的。由于个人见识的局限性以及时间的仓促性，错误与疏漏在所难免，如果你有任何建议或问题，欢迎评论，欢迎交流。
+需要注意的是，本文不是给你关于毕业论文内容写作的建议，不涉及如何写摘要、写文献综述、写结论等问题，而是关于如何「写」论文的建议，换句话说，就是写论文过程中，除文章内容之外，你应该关心的其他问题。
+
+虽然本文是以毕业论文为写作目标，但我认为其对于一般性的学术论文写作也具有借鉴意义。此外，文中用到的所有工具运行系统为 macOS，可能在 Windows 平台的部分操作有所不同，但应该不会有太大的差异。当然，由于个人见识的局限性以及时间的仓促性，错误与疏漏在所难免。如果你有任何建议或问题，欢迎评论，欢迎交流。此文会持续更新，最新的版本可以在 [这里](https://dsc.cloud/TomBen/suggestions-for-writing-thesis.html) 查看。
 
 
 ## 一定要使用 Word 样式
 
-Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一句话大家应该也有所耳闻：HR 绝不相信你在简历上写的**精通 Word (Office)**。我们真的会使用 Microsoft Word 吗？恐怕大多数人并不会吧，更别说精通了。
+Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一句话大家应该也有所耳闻：HR 绝对不会相信你在简历上写的**精通 Word (Office)**。我们真的会使用 Microsoft Word 吗？恐怕很多人并不会吧，更别说精通了。
 
-我现在还清晰地记得，一些同学上课或者听讲座的场景：背上自己沉重的电脑，早早来到教室，坐在前排，电脑开机，打开 Microsoft Word 或者 WPS Office，做好了一切做笔记的准备，然后从口袋里掏出手机开始玩。台上的老师讲得眉飞色舞，台下的键盘敲得毫不停歇，将老师讲的内容记在 Word 里面。一节课下来，老师口干舌燥，同学手指酸痛，Word 里密密麻麻，然而点击 Word 文件中的样式窗格，全是「正文」，完全没有结构可言。
+我现在还清晰地记得，一些同学上课或者听讲座的场景：背上自己沉重的电脑，早早来到教室，坐在前排，电脑开机，打开 Microsoft Word 或者 WPS Office，做好了一切做笔记的准备，然后从口袋里掏出手机开始玩。台上的老师讲得眉飞色舞，台下的同学键盘敲得毫不停歇，将老师讲的内容记在 Word 里面。一节课下来，老师口干舌燥，同学手指酸痛，Word 里密密麻麻，然而点击 Word 文件中的样式窗格，全是「正文」，完全没有结构可言。
 
 可能你说我把字号设置为三号字，字体加粗，前后各空一行，居中对齐...... 就是一级标题了。但是这是你觉得的标题，并不是 Word 觉得的标题，如果 Word 像黄晓明一样霸道，它一定会要用那句经典「明学」语录驳斥你：我不要你觉得，我要我觉得。
 
@@ -38,15 +40,15 @@ Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一
 - [Microsoft Word](https://products.office.com/en-us/word) —— Use Microsoft Word for the best word processing and document creation.
 - [Google Docs](https://docs.google.com) —— A word processor included as part of a free, online software office suite.
 - [Apple Pages](https://www.apple.com/pages/) —— Create and collaborate on documents that are beautiful beyond words.
-- [OpenOffice](http://www.openoffice.org) —— The Free and Open Productivity Suite.
-- [LibreOffice](https://www.libreoffice.org) —— Free Office Suit.
+- [OpenOffice Writer](http://www.openoffice.org) —— The leading open-source office software suite for word processing.
+- [LibreOffice Writer](https://www.libreoffice.org) —— With all features you need from a modern, full-featured word processing and desktop publishing tool.
 - [WPS Office](https://www.wps.com) —— Complete office suite with better templates.
 
-不难看出，几乎每个文字处理软件都在强调自己的办公（Office）属性，这与 Kieran Healy 提出的 [The Office Model & The Engineering Model](http://plain-text.co) 有异曲同工之妙：Word 这类文字处理软件不是为学术而生，而是为办公而生。学术文章往往具有一定的结构，Word 诞生之初并不能满足这种需求。好在 Word 2003 新增加了样式（Style）功能，能够在一定程度上胜任这项工作。
+不难看出，几乎每个文字处理软件都在强调自己的办公（Office）属性，这与 Kieran Healy 提出的 [The Office Model & The Engineering Model](http://plain-text.co) 有异曲同工之处：Word 这类文字处理软件不是为学术而生，而是为办公而生。学术文章往往具有很强的逻辑和一定的结构，Word 诞生之初并不能满足这种需求，好在 Word 2003 开始新增加了样式（Style）功能，能够在一定程度上胜任这项工作。
 
-Word 这类「所见即所得 ([WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG))」的编辑器经常被拿来和以 LaTeX 为代表的「所想即所得 ([WYWIWYG](https://blogs.sap.com/2007/04/04/wywiwg-what-you-want-is-what-you-get/))」编辑器相比较。这里我们可以来比较一下二者对于文章结构不同的强调程度。不论什么样的 LaTeX 入门资料，都一定会在入门阶段讲到 `\section`、`\subsection`和`\subsubsection`，分别对应文章中的一级标题、二级标题和三级标题，当然在标准 report 或者 book 类文档类中还有 `\chapter`，可见 LaTeX 从一开始就非常强调文档结构。相比较而言，Word 就不太重视了，大多数人打开 Word 就是直接开始写，所有的内容都是「正文」。
+Word 这类「所见即所得 ([WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG))」的编辑工具经常被拿来和以 LaTeX 为代表的「所想即所得 ([WYWIWYG](https://blogs.sap.com/2007/04/04/wywiwg-what-you-want-is-what-you-get/))」编辑工具相比较。这里我们可以来比较一下二者对于文章结构强调程度的不同。不论什么样的 LaTeX 入门资料，都一定会在入门阶段讲到 `\section`、`\subsection`和`\subsubsection`，分别对应文章中的一级标题、二级标题和三级标题，当然在标准 report 或者 book 类文档类中还有 `\chapter`，可见 LaTeX 从一开始就非常强调文档结构。相比较而言，Word 就不太重视了，大多数人打开 Word 就是直接开始写，所有的内容都是「正文」。
 
-不过 Word 上方样式菜单栏所占空间并不小，用过 Word 的人应该都见过这一部分。只是微软并没有把它做得那么显眼或者必不可少。
+不过 Word 上方样式菜单栏所占空间并不小，用过 Word 的人应该都见过这一部分，只是微软并没有把它做得那么显眼或者必不可少。
 
 ![](https://i.loli.net/2019/10/05/IaGFvwyhgc9niWR.png)
 
@@ -58,7 +60,7 @@ Word 默认的样式不太友好，与我们日常习惯的用法不同，为了
 
 ![](https://i.loli.net/2019/10/05/HIRErwJqPYLScvF.png)
 
-具体的内容修改，可以参考这篇 [微软官方说明](https://support.office.com/zh-cn/article/自定义或在-word-中创建新样式-d38d6e47-f6fc-48eb-a607-1eb120dec563)。关于如何实现标题自动编号，即一、二、三级标题编号类似于 1、1.1、1.1.1 这种形式，可以阅读 [这篇文章](https://zhuanlan.zhihu.com/p/22737822)。
+修改样式的步骤，也可以参考这篇 [微软官方说明](https://support.office.com/zh-cn/article/自定义或在-word-中创建新样式-d38d6e47-f6fc-48eb-a607-1eb120dec563)。关于如何实现标题自动编号，即一、二、三级标题编号类似于 1、1.1、1.1.1 这种形式，可以阅读 [这篇文章](https://zhuanlan.zhihu.com/p/22737822)。
 
 按照 [四川大学本科毕业论文（设计）格式和参考文献著录要求](http://jwc.scu.edu.cn/detail/183/6321.htm)，以修改一级标题为例，进行下列修改：
 
@@ -66,7 +68,7 @@ Word 默认的样式不太友好，与我们日常习惯的用法不同，为了
 2. 文字上下各空一行，居中排；
 3. 目录中一级标题用小 3～4 号字。
 
-此外，注意图表标题不要手动添加，如果手动修改了，老师或者学院突然要求加插图目录和表格目录，你不就傻眼了？靠谱的方法是使用「题注」功能为图片和表格添加标题，并且可以实现自动编号。「题注」的样式也是可以在样式窗格中修改的。运用了样式之后，加个目录什么的简直就是 so easy ～
+此外，图表标题也可以用样式来添加，不要手动添加，如果手动的话，老师或者学院突然要求加插图目录和表格目录，不就傻眼了？靠谱的方法是使用「题注」功能为图片和表格添加标题，并且可以实现自动编号。「题注」的样式也是可以在样式窗格中修改的。运用了样式之后，加个目录什么的简直就是 so easy ～
 
 ![](https://i.loli.net/2019/10/05/uLxTE3IBJHvRa5Z.png)
 
@@ -74,14 +76,14 @@ Word 默认的样式不太友好，与我们日常习惯的用法不同，为了
 
 ![](https://i.loli.net/2019/10/05/jcPAguJowMEzZ95.png)
 
-写完上述关于 Word 排版的内容，我真心觉得 Word 不应该被用来写毕业论文，还是去用我的 LaTeX 吧。然而相信绝大多数同学一定还是会选择 Word，并且四川大学教务处文件中，正文第一句就是「用微软 Word 软件排式」…… 所以再推荐两篇关于用 Word 排版毕业论文的文章吧，希望对你有所帮助：
+上述的操作我是一边在 Word 中设置，一边截图并记录下来。写到这里，我真心觉得 Word 不应该被用来写毕业论文，还是去用我的 LaTeX 吧。然而，绝大多数同学一定会选择 Word 来完成毕业论文，并且四川大学教务处文件中，正文第一句就是「用微软 Word 软件排式」…… 此刻，Kieran Healy 的这句话引起了我的强烈共鸣：
+
+> Very often, because of some unavoidable facts about the world, the final output of this kind of solution is also a `.docx` file.
+
+既然是「这个世界不可避免的事实」，那就再推荐两篇关于用 Word 排版毕业论文的文章吧，希望对你有所帮助：
 
 - [当代大学生难题：又又又又要排版论文了](https://mp.weixin.qq.com/s/iwcbhv75o6RnWAPZpV9U_A)
 - [毕业论文一次过！这份最全攻略，帮你轻松搞定排版](https://mp.weixin.qq.com/s/Fpya9Y6WZFs9bTDQFQjJWg)
-
-此刻，Kieran Healy 的这句话引起了我的强烈共鸣：
-
-> Very often, because of some unavoidable facts about the world, the final output of this kind of solution is also a `.docx` file.
 
 ## 千万要做好版本控制
 
@@ -101,7 +103,7 @@ Word 默认的样式不太友好，与我们日常习惯的用法不同，为了
 >
 >当你由于误操作，修改了某个文件中的内容，而想要撤销却不能做到的时候，当你的电脑丢失或出现故障，想要恢复其中的重要数据的时候，当你想要和别人合作完成项目进行文稿合并的时候…… 你就会体会到版本控制是多么重要。
 
-如果你觉得曾经有过下图中的经历或者预见自己可能会这样👇，那么你就需要版本控制。
+如果你曾经有过下图这样的经历或者预见自己可能会这样👇，那么你就需要版本控制。
 
 ![](https://i.loli.net/2019/10/06/HkE8be5SvlmAZuh.jpg)
 
@@ -109,7 +111,7 @@ Word 默认的样式不太友好，与我们日常习惯的用法不同，为了
 
 ![](https://i.loli.net/2019/10/04/R93TC5Kbr2ixEIq.jpg)
 
-那么如何进行版本控制呢？这里介绍两类工具，一是 Git —— 全能型选手，主要用于纯文本文件的版本控制；另一类是网盘工具 —— Dropbox 和坚果云，用于 Word 文件等二进制文件的版本控制。因此，如果你用纯文本`.tex`、`.md`、`.Rmd`…… 写论文，那么一定要使用 Git，如果你用 Word 写论文，推荐你使用 Dropbox 或坚果云进行版本控制。
+那么如何进行版本控制呢？这里介绍两类工具，一是 Git —— 全能型选手，主要用于纯文本文件的版本控制；另一类是网盘工具 —— Dropbox 和坚果云，用于 Word 文件等二进制文件的版本控制。因此，如果你用纯文本`.tex`、`.md`、`.Rmd` 等写论文，那么一定要使用 Git，如果你用 Word 写论文，推荐你使用 Dropbox 或坚果云进行版本控制。
 
 ### Git
 
@@ -117,15 +119,15 @@ Word 默认的样式不太友好，与我们日常习惯的用法不同，为了
 
 第 2 道名词解释题目：请解释 Git 是什么？（10 分）
 
-[Wikipedia](https://en.wikipedia.org/wiki/Git) 的回答（8 分）：
+[Wikipedia](https://en.wikipedia.org/wiki/Git) 的回答（9 分）：
 
-> Git (/ɡɪt/) is a distributed version-control system for tracking changes in source code during software development.
+> Git is a distributed version-control system for tracking changes in source code during software development.
 >
 > ---
 >
-> Git 是一个在软件开发过程中记录源代码变化的分布式版本控制软件。读作 /ɡɪt/，点击 [听音频](http://t.cn/Aim8qBqw)。
+> Git 是一个在软件开发过程中记录源代码变化的分布式版本控制软件。读作 /ɡɪt/，点击 [听 Git 发音](http://t.cn/Aim8qBqw)。
 
-Git 是由美籍芬兰裔开发者林纳斯·托瓦兹（Linus Benedict Torvalds）开发的，林纳斯·托瓦兹是当今世界最著名的计算机程序员和黑客之一，也是 Linux 内核的最早作者，担任 Linux 内核的首要架构师与项目协调者。Git 最初的目的是为了更好地管理 Linux 内核开发，随着时间的流逝，现如今 Git 已成为全世界最流行、最先进的版本控制系统，全球最大的代码托管网站 [GitHub](https://github.com) 就是一个利用 Git 进行版本控制的软件源代码托管服务平台。
+Git 由美籍芬兰裔开发者林纳斯·托瓦兹（Linus Benedict Torvalds）开发，林纳斯·托瓦兹是当今世界最著名的计算机程序员和黑客之一，也是 Linux 内核的最早作者，担任 Linux 内核的首要架构师与项目协调者。Git 最初的目的是为了更好地管理 Linux 内核开发，随着时间的流逝，现如今 Git 已成为全世界最流行、最先进的版本控制系统，全球最大的代码托管网站 [GitHub](https://github.com) 就是一个利用 Git 进行版本控制的软件源代码托管服务平台。
 
 ![](https://i.loli.net/2019/10/04/WBwIeoQxRn7CuDm.png)
 
@@ -170,7 +172,7 @@ $ git checkout  # 切换到分支
 
 我只用过其中的几个命令，因为其他的很多命令我记不住 😂。要掌握好 Git 的操作还是不容易的，毕竟它有很多命令，不亚于一门编程语言的入门级语法。一些常用的 Git 命令，可以查看 GitHub 的这个 [GIT CHEAT SHEET](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)。
 
-可能正是由于 Git 命令太多记不住，有非常多的图形化软件（GUI, Graphical User Interface）供我们选择，来可视化 Git 操作。你可以在 [这个页面](https://git-scm.com/downloads/guis) 查看各个操作系统的 Git 图形化应用。我在 macOS 上使用 [GitHub Desktop](https://desktop.github.com) 和 [VS Code](https://code.visualstudio.com)，iOS & iPadOS 上（很少）使用 [Working Copy](https://workingcopyapp.com)，推荐在 Windows 上使用 GitHub Desktop 或 [SourceTree](https://www.sourcetreeapp.com)。
+可能正是由于 Git 命令太多记不住，有很多图形化软件（GUI, Graphical User Interface）供我们选择，来可视化 Git 操作。你可以在 [这个页面](https://git-scm.com/downloads/guis) 查看各个操作系统的 Git 图形化应用。我在 macOS 上使用 [GitHub Desktop](https://desktop.github.com) 和 [VS Code](https://code.visualstudio.com)，iOS & iPadOS 上（很少）使用 [Working Copy](https://workingcopyapp.com)，推荐在 Windows 上使用 GitHub Desktop 或 [SourceTree](https://www.sourcetreeapp.com)。
 
 下面我来演示 GitHub Desktop 的操作。
 
@@ -185,15 +187,15 @@ test
 │   ├── ......
 ```
 
-将文件夹 `test` 用 GitHub Desktop 打开（没错，是打开文件夹），然后 GitHub Desktop 会自动检测到这个文件夹不是一个 Git 文件夹，询问你是否需要创建一个新的 Git 仓库（Repository），得到你的肯定回复后，GitHub Desktop 会弹出一个窗口，设置创建新仓库的相关信息，如下图所示。
+将文件夹 `test` 用 GitHub Desktop 打开（没错，打开**文件夹**），然后 GitHub Desktop 会自动检测到这个文件夹不是一个 Git 文件夹，询问你是否需要创建一个新的 Git 仓库（Repository），得到你的肯定回复后，GitHub Desktop 会弹出一个窗口，设置创建新仓库的相关信息，如下图所示。
 
 ![](https://i.loli.net/2019/10/05/LbmXSGkdYT4cjw1.png)
 
-Git 仓库创建完成后，点击左侧的 `History`，可以看到 `Initial commit`，即首次提交，这是在刚刚创建 Git 仓库时完成的。每一个文件的右边都有一个绿色的加号，表明首次提交添加了这个文件夹里的所有文件。接下来 `test` 文件夹里任何文件的变化都在 Git 的掌控之下。
+Git 仓库创建完成后，点击左上角的 `History`，可以看到一个 `Initial commit`，即首次提交，这是在刚刚创建 Git 仓库时完成的。每一个文件的右边都有一个绿色的加号，表明首次提交添加了 `tset` 文件夹里的所有文件。接下来 `test` 文件夹里任何文件的变化都在 Git 的掌控之下。
 
 ![](https://i.loli.net/2019/10/05/T78HwSMzJoKsmnt.png)
 
-然后你可以关闭 GitHub Desktop，接着来修改 `test`文件夹里的文件。修改完成之后，再次打开 GitHub Desktop，你就会看到你是这么修改的：绿色表示增加的内容，红色表示减少的内容。
+然后你可以关闭 GitHub Desktop，接着来修改 `test`文件夹里的文件。修改完成之后，再次打开 GitHub Desktop，你就会看到 Git 记录下了你的修改过程：绿色表示增加的内容，红色表示减少的内容。
 
 ![](https://i.loli.net/2019/10/05/XpnOxcdlz9YD8Cj.png)
 
@@ -205,7 +207,7 @@ Git 仓库创建完成后，点击左侧的 `History`，可以看到 `Initial co
 
 ![](https://i.loli.net/2019/10/05/NDMjZCQm4iLa6oV.png)
 
-推送到远程仓库后，你就在 GitHub 服务器上有了一份本地文件的副本，如下图所示。以后每次的修改都提交到远程，这是一个好习惯。你的每次修改，Git 都忠实地记录了下来，方便你回退到之前的任意一个版本。万一你的电脑出现故障或者换了一台电脑，可以直接从远程拉取到本地，为文件安全增加了一道保护锁。如果你不想别人看见你的远程仓库内的内容，你可以将仓库设置为私人仓库 (Private)（微软收购 GitHub 后，免费用户可以创建不限数量的私人仓库。）
+推送到远程仓库后，你就在 GitHub 服务器上有了一份本地文件的副本，如下图所示。以后每次的修改都提交到远程，这是一个好习惯。你的每次修改，Git 都忠实地记录了下来，方便你回退到之前的任意一个版本。万一你的电脑出现故障或者换了一台电脑，可以从远程服务器拉取文件到本地，为文件安全增加了一道保护锁。如果你不想别人看见你的远程仓库内的内容，你可以将仓库设置为私人仓库 (Private)（微软收购 GitHub 后，免费用户可以创建不限数量的私人仓库。）
 
 ![](https://i.loli.net/2019/10/05/sBTVGhMbLQ1Kcjv.png)
 
@@ -215,7 +217,7 @@ Git 虽然很强大，但它主要是针对纯文本文件进行版本控制，�
 
 ![](https://i.loli.net/2019/10/06/h9DnGwLjRMxBqIY.png)
 
-因此，网盘或者云盘的版本控制功能（在网盘中叫做「历史记录」）就派上用场了，这足以应付毕业论文的写作。下面介绍两个网盘的版本控制 —— Dropbox 和坚果云，分别是墙外和墙内的网盘代表。
+因此，网盘或者云盘的版本控制功能（在网盘中叫做「历史记录」）就派上用场了，这足以应付毕业论文的写作。下面介绍两个网盘 —— Dropbox 和坚果云，分别是墙外和墙内的网盘代表。
 
 #### Dropbox
 
@@ -223,53 +225,54 @@ Git 虽然很强大，但它主要是针对纯文本文件进行版本控制，�
 
 > 用 Git 或 Mercurial 的工程师鄙视用 Subversion 的工程师，用 Subversion 的工程师鄙视用 Dropbox 来做版本控制的工程师，用 Dropbox 来做版本控制的工程师鄙视根本不知道什么叫做版本控制的工程师。
 
-很显然，上述言语流露出对用 Dropbox 做版本控制的不屑。然而，Dropbox 作为鄙视链上唯一一个网盘，足以看出其在网盘界的地位。在网盘界，如果 Dropbox 说自己是老二，绝对没有网盘敢称自己是老大，国内国外皆是如此。然而，由于众所周知的原因，Dropbox 在中国大陆无法正常使用，需要一些特殊的手段才行。如果你能解决科学上网问题，我强烈推荐你试一试 Dropbox。
+很显然，上述言语流露出对用 Dropbox 做版本控制的不屑。然而，Dropbox 作为鄙视链上唯一一个网盘，足以看出其在网盘界的地位。在网盘界，如果 Dropbox 说自己是老二，绝对没有网盘敢称自己是老大，国内国外皆是如此。由于众所周知的原因，Dropbox 在中国大陆无法正常使用，需要一些特殊的手段才行。如果你能解决科学上网问题，我强烈推荐你试一试 Dropbox。
 
-[注册 Dropbox](https://db.tt/FmhniEsrCa) 后可以获得 2GB 空间，可以通过完成任务或邀请好友扩大空间至 18GB 左右，存储常用文件基本足够了。
+[注册 Dropbox](https://db.tt/FmhniEsrCa) 后自动获得 2GB 空间，通过完成任务或邀请好友可扩大空间至 20GB 左右，存储常用文件基本足够了。Dropbox 存储文件历史版本的时间长度取决于账号的套餐：
 
-Dropbox 存储文件旧版本的时间长度取决于拥有的套餐：
 - Basic（免费）：30 天
 - Plus：30 天
 - Business（Standard、Advanced、Enterprise 或 Education）：120 天
 - Professional：180 天
 
-如何查看文件的旧版本：
+在 Dropbox 中查看文件的历史版本：
 
-1. 登录 [Dropbox](https://www.dropbox.com/)
-
-2. 单击文件以查找您要查看其旧版本的文件
-
-3. 将鼠标悬停在文件上，然后选中左侧显示的复选框
-
-4. 单击版本历史记录
+1. 打开并登录 [Dropbox](https://www.dropbox.com/)
+2. 单击你想要查看其历史版本的文件
+3. 右键选择 `版本历史记录`
 
 
 ![](https://i.loli.net/2019/07/20/5d330871b937f55538.png)
 
 5. 选择某个版本进行预览
 
-6. 要恢复旧版本，请单击恢复按钮
+6. 要恢复旧版本，请单击最右边的 `恢复` 按钮
 
   注意：如果在离线状态下或在 Dropbox 以外的地方编辑文件，系统不会更新版本历史记录。
   
 
 ![](https://i.loli.net/2019/07/20/5d3307d8c07ba47300.png)
 
-如果你的 `my-thesis.docx` 文件存储在 Dropbox 文件夹中，并且 Dropbox 处于打开状态，当你用 Word 打开时，窗口右侧会出现一个「Dropbox 标记」，可以很方便地共享、评论或查看版本历史记录。
+
+
+假设你的 `my-thesis.docx` 文件存储在 Dropbox 文件夹中，并且 Dropbox 处于打开状态，那么当你用 Word 打开 `my-thesis.docx` 时，Word 窗口右侧会出现一个「Dropbox 标记」，可以很方便地共享、评论或查看版本历史记录。
 
 ![](https://i.loli.net/2019/10/06/dPnu98pJhMSzeNL.png)
 
+
+
 #### 坚果云
 
-[坚果云](https://www.jianguoyun.com) 和 Dropbox 很类似，优点在于这是一个国内的云盘服务，不需要特殊的网络也可正常使用。安装好坚果云并登录之后，在坚果云同步的文件夹里右击文件，可以看到一个 `查看文件历史` 的选项。
+[坚果云](https://www.jianguoyun.com) 和 Dropbox 很类似，优点在于这是一个国内的云盘服务，不需要特殊的网络就可正常使用。安装好坚果云并登录之后，在坚果云同步的文件夹里右击文件，可以看到一个 `查看文件历史` 的选项。
 
 ![](https://i.loli.net/2019/07/20/5d3309b5866a242476.png)
 
 
 
-点击之后，会在新窗口看见最近的修改历史（坚果云个人免费版用户可以保存一个月的文件历史版本），可以选择恢复或下载。
+点击之后，会在新窗口看见最近的修改历史（坚果云个人免费版用户可以保存一个月的文件历史版本）。
 
 ![](https://i.loli.net/2019/07/20/5d330a5e9ed4c61684.png)
+
+点击左下角的 `查看更多` 会跳转至网页版查看更多的历史记录，可以选择 `恢复` 或 `下载` 文件的历史版本。
 
 ![](https://i.loli.net/2019/07/21/5d33d8b63517d16452.png)
 
@@ -278,31 +281,30 @@ Dropbox 存储文件旧版本的时间长度取决于拥有的套餐：
 - 纯文本写论文，用 Git 做版本控制
 - Word 写论文，能够科学上网，用 Dropbox 做版本控制
 - Word 写论文，不能科学上网，用坚果云做版本控制
-- 不想做版本控制，只想存一个备份，以上工具任选都可
+- 不想做版本控制，只想存一个备份，以上工具任选皆可
 - 不想写论文…… 请出门右拐
 
 ![](https://i.loli.net/2019/10/06/JbTMlf1E3F8Kznq.jpg)
 
 ## 最好实现参考文献自动化
 
-写论文参考文献必不可少，毕业论文当然也不例外，很多童鞋写论文过程中最为头痛的部分可能就是参考文献了。这里我介绍两种实现参考文献自动化的方法，方法一是 EndNote 和 Word 的结合，方法二是在 LaTeX 中使用 BibTeX 生成参考文献，当然你任选其一（绝大多数人应该会选择方法一，但我认为方法二才是更加优雅的方式），都能达到简化我们工作的目的，正如 Kieran Healy 所说：
+写论文参考文献必不可少，毕业论文当然也不例外，很多童鞋写论文过程中最为头痛的部分可能就是参考文献了。这里我介绍两种实现参考文献自动化的方法，方法一是 EndNote 和 Word 的结合，方法二是在 LaTeX 中使用 BibTeX 生成参考文献，当然你任选其一，都能达到简化我们工作的目的，正如 Kieran Healy 所说：
 
 > Make your computer work for you by automating as many of these steps as you can.
 
-有了以上两种实现参考文献自动化的方法的加持，你再也不用一遍又一遍地复制和粘贴参考文献了，若是文献前后顺序发生了改变，也不再需要一个一个手动调整。
+有了以上两种实现参考文献自动化方法的加持，你再也不用一遍又一遍地复制和粘贴参考文献了，若是文献前后顺序发生了改变，也不再需要一个一个手动调整。
 
 ### EndNote
 
-[EndNote](https://endnote.com) 是一款知名的文献管理软件，由科睿唯安[^k]（Clarivate Analytics）开发，至今已有二十余年历史，在学术界具有较高的普及度。实际上，文献管理软件多如牛毛，叫得出名字的就有 [Papers](https://www.papersapp.com)、[Mendeley](https://www.mendeley.com)、[Zotero](https://www.zotero.org)、[Citavi](https://www.citavi.com/en)、[NoteExpress](http://www.inoteexpress.com/aegean/) 等等，为什么这里我只介绍 EndNote 呢？因为：
+[EndNote](https://endnote.com) 是一款知名的文献管理软件，由科睿唯安（Clarivate Analytics，著名的科学引文索引 SCI (Science Citation Index) 和社会科学引文索引 SSCI (Social Science Citation Index) 就是其下品牌。）开发，至今已有二十余年历史，在学术界具有较高的普及度。实际上，文献管理软件多如牛毛，叫得出名字的就有 [Papers](https://www.papersapp.com)、[Mendeley](https://www.mendeley.com)、[Zotero](https://www.zotero.org)、[Citavi](https://www.citavi.com/en)、[NoteExpress](http://www.inoteexpress.com/aegean/) 等等，为什么这里我只介绍 EndNote 呢？因为：
 
 1. EndNote 最为著名，通用性较强，网上教程很多。
-2. 与 Microsoft Word 结合，EndNote 算是比较不错的（我猜你是用 Word 写论文的吧）。
+2. 与 Microsoft Word 结合，EndNote 算是比较不错的（EndNote 甚至可以与 [Apple Pages](https://support.apple.com/kb/DL1916?locale=zh_CN) 结合使用）。
 3. 部分高校图书馆购买了 EndNote，在校师生可以免费使用。
 
+截至 2019 年 10 月 6 日，EndNote 的最新版本为 `X9.2`，官网售价 249.95 美元（约合人民币 1786.54 元），即使学生享受 5 折优惠购买，售价也将近 900 元人民币。不过幸运的是，很多高校图书馆似乎体贴到了我们的贫穷，购买了机构版 EndNote 供在校师生免费使用，比如 [北京大学图书馆](https://www.lib.pku.edu.cn/portal/cn/zy/dzzy/gjrj/endnote)、[中国科学技术大学图书馆](http://lib.ustc.edu.cn/电子资源/database/9-工具软件/[新增]endnote-x7-文献管理软件/#)、[中山大学图书馆](http://lzcxdj.com/article/599) 和 [四川大学图书馆](http://202.115.54.22/resourcenov/resourcedetail/SCU04595)。
 
-[^k]:科睿唯安旗下拥有众多业界知名品牌，如 Web of Science 平台，其中包含著名的科学引文索引 SCI (Science Citation Index) 和社会科学引文索引 SSCI (Social Science Citation Index)。
-
-截至 2019 年 10 月 4 日，EndNote 的最新版本为 `X9.2`，官网售价 249.95 美元（约合人民币 1786.54 元），即使学生享受 5 折优惠购买，售价也将近 900 元人民币。不过幸运的是，很多高校图书馆似乎体贴到了我们的贫穷，购买了机构版 EndNote 供在校师生免费使用，比如 [北京大学图书馆](https://www.lib.pku.edu.cn/portal/cn/zy/dzzy/gjrj/endnote)、[中国科学技术大学图书馆](http://lib.ustc.edu.cn/电子资源/database/9-工具软件/[新增]endnote-x7-文献管理软件/#)、[中山大学图书馆](http://lzcxdj.com/article/599) 和 [四川大学图书馆](http://202.115.54.22/resourcenov/resourcedetail/SCU04595)。
+![](https://i.loli.net/2019/10/06/7D3nhJbjdCksFTH.png)
 
 以后当别人问你，你的 EndNote 破解版在哪儿下载的时候，你可以骄傲地对他/她说：**我用的是正版 EndNote！用正版，我骄傲！**然后手把手教他/她怎么在图书馆网站下载和安装 EndNote。
 
@@ -335,7 +337,7 @@ Dropbox 存储文件旧版本的时间长度取决于拥有的套餐：
 
 
 
-容易看出，三大数据库导出的 EndNote 引文格式并不完全一样，特别当导出一些年代久远、数据不全的论文更为明显，需要自己手动修改引文中的内容。而后文用到的 BibTeX 一般就不存在这样的问题。
+容易看出，三大数据库导出的 EndNote 引文格式并不完全一样，特别当导出一些年代久远、数据不全的论文更为明显，需要手动修改引文中的内容。而后文用到的 BibTeX 一般就不存在这样的问题。
 
 国外的数据库在引文方面做得更好，比如 [ScienceDirect](https://www.sciencedirect.com) 数据库可以在每篇论文上方点击「Export」导出需要的引文格式，同样包括 EndNote 的 `.ris` 格式，也支持批量导出。
 
@@ -345,7 +347,7 @@ Dropbox 存储文件旧版本的时间长度取决于拥有的套餐：
 
 #### 新建 EndNote 数据库
 
-打开 EndNote，点击上方 `File -> New`，在弹出的对话框（如下图）中命名数据库和更改存储位置。此处命名为 `My EndNote Library`，存储在 `Desktop`。点击 `Save` 之后，桌面上会出现一个文件和一个文件夹，分别是 `My EndNote Library.enl` 和 `My EndNote Library.Data`，这是由 EndNote 自动生成的，写作毕业论文所有的参考文献的数据都会保存在里面。
+打开 EndNote，点击上方 `File -> New`，在弹出的对话框（如下图）中命名数据库和更改存储位置。此处命名为 `My EndNote Library`，存储在 `Desktop`。点击 `Save` 之后，桌面上会出现一个文件和一个文件夹，分别是 `My EndNote Library.enl` 和 `My EndNote Library.Data`，这是由 EndNote 自动生成的，写作毕业论文所需的参考文献数据都会保存在里面。
 
 ![](https://i.loli.net/2019/10/04/SCGfR5pJ6aEAs83.png)
 
@@ -397,7 +399,7 @@ Author. Title[J]. Journal, Year, Volume|(Issue)|:Pages.
 
 因为测试文档里只包含 Journal，没有 Book、Thesis 等其他种类的文献，这里只修改了 Journal，但其他种类的文献格式也可能有问题，可根据需要自行修改。善于利用搜索引擎，总是能修改正确的。
 
-此外，在 Word 中，参考文献的布局也是可以调整的。点击 `EndNote X9 -> Configure Bibliography `，在弹出的窗口中选择 `Layout`，可以设置字体、字号、缩进、行距等。
+此外，在 Word 中，参考文献的布局样式也是可以调整的。点击 `EndNote X9 -> Configure Bibliography `，在弹出的窗口中点击 `Layout`，可以设置字体、字号、缩进、行距等。
 
 ![](https://i.loli.net/2019/10/04/w9h8CDaUonIbPBl.png)
 
@@ -410,7 +412,7 @@ Word 原生自带一个引用（References），我没有使用过（看上去�
 
 ### BibTeX
 
-第三道名词解释题目。
+第 3 道名词解释题目。
 
 请解释 BibTeX 是什么？（10 分）
 
@@ -422,13 +424,13 @@ Word 原生自带一个引用（References），我没有使用过（看上去�
 >
 > BibTeX 是一种用于描述和处理引用列表的工具和文件格式，通常与 LaTeX 文档一起使用。
 
-正如前文提到的，BibTeX 和 LaTeX 天生是一对，通常与 LaTeX 结合使用，因此下面介绍在 LaTeX 中使用 BibTeX 的方法。但是这并不代表 BibTeX 只能和 LaTeX 一起使用，BibTeX 作为一种纯文本，可以作为引文数据的理想存储格式，与多种文本一起使用，比如 Markdown、R Markdown，甚至 [Microsoft Word](https://interfacegroup.ch/how-can-i-use-my-bibtex-library-in-ms-word/)。
+正如前文提到的，BibTeX 和 LaTeX 天生是一对，通常与 LaTeX 结合使用，因此下面介绍在 LaTeX 中使用 BibTeX 的方法。但是这并不代表 BibTeX 只能和 LaTeX 一起使用，BibTeX 作为一种纯文本，可以作为引文数据的理想存储格式，与多种文件格式一起使用，比如 Markdown、R Markdown，甚至 [Microsoft Word](https://interfacegroup.ch/how-can-i-use-my-bibtex-library-in-ms-word/)。
 
 与在 Word 中利用 EndNote 插入参考文献相比，在 LaTeX 中使用 BibTeX 更为简单，不需要繁复的设置，只需要 2 步：获取 BibTeX 文件和在 LaTeX 文档中引入 BibTeX 文件。
 
 #### 获取 BibTeX 文件
 
-与 EndNote 一样，几乎所有的文献数据库（[CNKI](https://www.cnki.net) 不支持 😔）都支持导出为 BibTeX。这里以 ScienceDirect 为例，获取 BibTeX 文件。
+与 EndNote 一样，几乎所有的文献数据库（中国知网不支持 😔）都支持导出为 BibTeX。这里以 ScienceDirect 为例，获取 BibTeX 文件。
 
 如下图所示，点击「Export citation to BibTeX」，就会下载一个扩展名为 `.bib` 的文件。
 
@@ -436,7 +438,7 @@ Word 原生自带一个引用（References），我没有使用过（看上去�
 
 
 
-打开这个文件，里面的内容如下 👇。百分号后的文字为注释内容，直接下载的 `.bib`文件里没有，是我之后加上的，包裹文字的  `{}` 也可以换成 `""`。
+下载完成之后打开这个文件，里面的内容如下 👇。百分号后的文字为注释内容，直接下载的 `.bib`文件里没有，是我之后加上的，包裹文字的  `{}` 也可以换成 `""`。
 
 ```latex
 @article{YANG2019584, % article 表示这是期刊文章，YANG2019584 为键值（bib key），在文中用 \cite{YANG2019584} 进行引用
@@ -455,7 +457,7 @@ Word 原生自带一个引用（References），我没有使用过（看上去�
 }
 ```
 
-需要注意的是，有些数据库不支持直接下载 `.bib` 文件，比如 Google Scholar，需要手动进行复制与粘贴。可以这样操作：复制网站上的 BibTeX 文件内容，用记事本之类的文本编辑器新建一个文件，将复制的内容粘贴进去，保存为 `ref.bib`，如果后缀不是 `.bib`，可手动将 `.txt` 修改为 `.bib`，因为它们都是纯文本 (Plain Text)。
+需要注意的是，有些数据库不支持直接下载 `.bib` 文件，比如 Google Scholar，需要手动进行复制与粘贴。可以这样操作：复制网站上的 BibTeX 文件内容，用记事本之类的文本编辑器新建一个文件，将复制的内容粘贴进去，保存为 `ref.bib`，如果后缀不是 `.bib`，可手动将 `.txt` 修改为 `.bib`，因为它们都是纯文本。
 
 ![](https://i.loli.net/2019/10/05/eZ7iwbF2SnyTmAW.png)
 
@@ -467,7 +469,7 @@ Word 原生自带一个引用（References），我没有使用过（看上去�
 
 LaTeX 有非常多的宏包实现参考文献的相关设置，其中最常用的应该是 [natbib](https://www.ctan.org/pkg/natbib) 了，我们要用到的实现国标参考文献样式的宏包 [gbt7714](https://github.com/CTeX-org/gbt7714-bibtex-style) 也兼容 natbib 宏包，gbt7714 宏包是用 BibTeX 实现国标参考文献样式的最简单方式，由清华大学 [李泽平](https://github.com/zepinglee) 开发。
 
-完整的实现代码如下：
+完整的实现代码如下，百分号为该命令实现的功能或使用方法。
 
 ```latex
 \documentclass[12pt, a4paper]{ctexart}  % 载入 ctexart 文档类，用于支持中文，同时设置全文正文字体为 12pt，页面为 A4
@@ -501,7 +503,7 @@ LaTeX 有非常多的宏包实现参考文献的相关设置，其中最常用�
 
 <img src="https://i.loli.net/2019/10/05/rZmNT23ApaXqzW9.jpg"  />
 
-所有打赏都将列在下方表格中，我将在 [我的博客](https://tomben.me) 中持续更新名单。表格已经列好，期待您的打赏 😜
+所有的赞赏都将列在下方表格中，我将在 [我的博客](https://tomben.me/post/suggestions-for-writing-thesis) 中持续更新名单。表格已经列好，期待您的赞赏 😜
 
 | 📅 | 👦/🧒  |   💰   |    ✉️     |
 | :--: | :--: | :---: | :------: |
@@ -511,6 +513,6 @@ LaTeX 有非常多的宏包实现参考文献的相关设置，其中最常用�
 |           |      |   🥇   |          |
 |           |      | 🥈 |      |
 
-好了，就写到这里吧。不多说了，去准备毕业论文开题了。祝毕业的童鞋们都能顺利拿下毕业论文～
+好吧，就写到这里。不多说了，开始准备毕业论文开题了。祝毕业的童鞋们都能顺利拿下毕业论文～
 
 ![](https://i.loli.net/2019/10/05/xqJvwWaABXQp2bN.jpg)

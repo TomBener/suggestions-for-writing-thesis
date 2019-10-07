@@ -4,7 +4,7 @@
 >
 > 邮箱：me@tomben.me
 >
-> 版本：1.1
+> 版本：1.2
 >
 > 最近更新：2019 年 10 月 7 日
 
@@ -488,7 +488,7 @@ LaTeX 有非常多的宏包实现参考文献的相关设置，其中最常用�
 
 生成的 PDF 效果如下图所示，可点击 [这里](https://dsc.cloud/TomBen/BibTeX-Test.pdf) 查看或下载 PDF 文件。
 
-![](https://i.loli.net/2019/10/05/RGBaSJKZwbNfsro.png)
+![](https://i.loli.net/2019/10/07/aw7mHQsZytRrCvc.png)
 
 
 ## 写在后面

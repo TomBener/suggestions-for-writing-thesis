@@ -2,11 +2,11 @@
 
 > 作者：[任涛](https://tomben.me)
 >
-> 邮箱：me AT tomben.me
+> 邮箱：me@tomben.me
 >
-> 版本：1.0（公众号版本为终版）
+> 版本：1.1
 >
-> 日期：2019 年 10 月 6 日
+> 最近更新：2019 年 10 月 7 日
 
 ---
 
@@ -46,7 +46,7 @@ Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一
 
 不难看出，几乎每个文字处理软件都在强调自己的办公（Office）属性，这与 Kieran Healy 提出的 [The Office Model & The Engineering Model](http://plain-text.co) 有异曲同工之处：Word 这类文字处理软件不是为学术而生，而是为办公而生。学术文章往往具有很强的逻辑和一定的结构，Word 诞生之初并不能满足这种需求，好在 Word 2003 开始新增加了样式（Style）功能，能够在一定程度上胜任这项工作。
 
-Word 这类「所见即所得 ([WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG))」的编辑工具经常被拿来和以 LaTeX 为代表的「所想即所得 ([WYWIWYG](https://blogs.sap.com/2007/04/04/wywiwg-what-you-want-is-what-you-get/))」编辑工具相比较。这里我们可以来比较一下二者对于文章结构强调程度的不同。不论什么样的 LaTeX 入门资料，都一定会在入门阶段讲到 `\section`、`\subsection`和`\subsubsection`，分别对应文章中的一级标题、二级标题和三级标题，当然在标准 report 或者 book 类文档类中还有 `\chapter`，可见 LaTeX 从一开始就非常强调文档结构。相比较而言，Word 就不太重视了，大多数人打开 Word 就是直接开始写，所有的内容都是「正文」。
+Word 这类「所见即所得 ([WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG))」的编辑工具经常被拿来和以 LaTeX 为代表的「所想即所得 ([WYWIWYG](https://blogs.sap.com/2007/04/04/wywiwg-what-you-want-is-what-you-get/))」编辑工具相比较。这里我们可以来比较一下二者对于文章结构强调程度的不同。不论什么样的 LaTeX 入门资料，都一定会在入门阶段讲到 `\section`、`\subsection`和`\subsubsection`，分别对应文章中的一级标题、二级标题和三级标题，当然在标准 report 或者 book 文档类中还有 `\chapter`，可见 LaTeX 从一开始就非常强调文档结构。相比较而言，Word 就不太重视了，大多数人打开 Word 就是直接开始写，所有的内容都是「正文」。
 
 不过 Word 上方样式菜单栏所占空间并不小，用过 Word 的人应该都见过这一部分，只是微软并没有把它做得那么显眼或者必不可少。
 
@@ -174,7 +174,7 @@ $ git checkout  # 切换到分支
 
 可能正是由于 Git 命令太多记不住，有很多图形化软件（GUI, Graphical User Interface）供我们选择，来可视化 Git 操作。你可以在 [这个页面](https://git-scm.com/downloads/guis) 查看各个操作系统的 Git 图形化应用。我在 macOS 上使用 [GitHub Desktop](https://desktop.github.com) 和 [VS Code](https://code.visualstudio.com)，iOS & iPadOS 上（很少）使用 [Working Copy](https://workingcopyapp.com)，推荐在 Windows 上使用 GitHub Desktop 或 [SourceTree](https://www.sourcetreeapp.com)。
 
-下面我来演示 GitHub Desktop 的操作。
+**下面我来演示 GitHub Desktop 的操作。**
 
 将文件 `suggestions-for-writing-thesis.md` 及其附属图片放在同一个文件夹里，命名为 `test`，文件夹结构如下：
 
@@ -227,7 +227,7 @@ Git 虽然很强大，但它主要是针对纯文本文件进行版本控制，�
 
 很显然，上述言语流露出对用 Dropbox 做版本控制的不屑。然而，Dropbox 作为鄙视链上唯一一个网盘，足以看出其在网盘界的地位。在网盘界，如果 Dropbox 说自己是老二，绝对没有网盘敢称自己是老大，国内国外皆是如此。由于众所周知的原因，Dropbox 在中国大陆无法正常使用，需要一些特殊的手段才行。如果你能解决科学上网问题，我强烈推荐你试一试 Dropbox。
 
-[注册 Dropbox](https://db.tt/FmhniEsrCa) 后自动获得 2GB 空间，通过完成任务或邀请好友可扩大空间至 20GB 左右，存储常用文件基本足够了。Dropbox 存储文件历史版本的时间长度取决于账号的套餐：
+[注册 Dropbox](https://db.tt/FmhniEsrCa) 后会自动获得 2GB 空间，通过完成任务或邀请好友可扩大空间至 20GB 左右，存储常用文件基本足够了。Dropbox 存储文件历史版本的时间长度取决于账号的套餐：
 
 - Basic（免费）：30 天
 - Plus：30 天
@@ -243,12 +243,10 @@ Git 虽然很强大，但它主要是针对纯文本文件进行版本控制，�
 
 ![](https://i.loli.net/2019/07/20/5d330871b937f55538.png)
 
-5. 选择某个版本进行预览
+4. 选择某个版本进行预览
+5. 要恢复旧版本，单击最右边的 `恢复` 按钮
 
-6. 要恢复旧版本，请单击最右边的 `恢复` 按钮
-
-  注意：如果在离线状态下或在 Dropbox 以外的地方编辑文件，系统不会更新版本历史记录。
-  
+注意：如果在离线状态下或在 Dropbox 以外的地方编辑文件，系统不会更新版本历史记录。
 
 ![](https://i.loli.net/2019/07/20/5d3307d8c07ba47300.png)
 
@@ -412,9 +410,7 @@ Word 原生自带一个引用（References），我没有使用过（看上去�
 
 ### BibTeX
 
-第 3 道名词解释题目。
-
-请解释 BibTeX 是什么？（10 分）
+第 3 道名词解释题目：请解释 BibTeX 是什么？（10 分）
 
 [BibTeX 网站](http://www.bibtex.org) 的回答（10 分）：
 
@@ -499,19 +495,18 @@ LaTeX 有非常多的宏包实现参考文献的相关设置，其中最常用�
 
 如果你觉得本文对你有一点儿用，不妨扫描下方二维码小小地赞赏我一下～
 
-<img src="https://i.loli.net/2019/10/05/nxkIfMliGEFmVyv.jpg" style="zoom:70%;" />
+![](https://i.loli.net/2019/10/05/nxkIfMliGEFmVyv.jpg)
 
-<img src="https://i.loli.net/2019/10/05/rZmNT23ApaXqzW9.jpg"  />
+![](https://i.loli.net/2019/10/05/rZmNT23ApaXqzW9.jpg)
 
 所有的赞赏都将列在下方表格中，我将在 [我的博客](https://tomben.me/post/suggestions-for-writing-thesis) 中持续更新名单。表格已经列好，期待您的赞赏 😜
 
 | 📅 | 👦/🧒  |   💰   |    ✉️     |
 | :--: | :--: | :---: | :------: |
-| 2019/10/6 | 任涛 | 🥇 100 | 辛苦了 😂 |
-|      |      |   🥈   |          |
-|           |      |   🥉   |          |
-|           |      |   🥇   |          |
-|           |      | 🥈 |      |
+| 2019/10/6 | 任涛 | 🥇 10 | 辛苦了 😂 |
+| 2019/10/6 | 阿森 |   🥈 5   | 哈哈哈总在图书馆碰见涛哥，辛苦了！ |
+| 2019/10/6 | 椰子汁 |   🥈 5   | 涛哥冲冲冲！ |
+| 2019/10/6 | Drifting |   🥈 5   |          |
 
 好吧，就写到这里。不多说了，开始准备毕业论文开题了。祝毕业的童鞋们都能顺利拿下毕业论文～
 

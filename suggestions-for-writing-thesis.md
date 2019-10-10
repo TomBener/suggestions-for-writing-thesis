@@ -4,7 +4,7 @@
 >
 > 邮箱：me@tomben.me
 >
-> 版本：1.3
+> 版本：1.32
 >
 > 最近更新：2019 年 10 月 10 日
 
@@ -46,7 +46,7 @@ Word 很好上手，这应该是接触过 Word 的人都会承认的，但有一
 
 不难看出，几乎每个文字处理软件都在强调自己的办公（Office）属性，这与 Kieran Healy 提出的 [The Office Model & The Engineering Model](http://plain-text.co) 有异曲同工之处：Word 这类文字处理软件不是为学术而生，而是为办公而生。学术文章往往具有很强的逻辑和一定的结构，Word 诞生之初并不能满足这种需求，好在 Word 2003 开始新增加了样式（Style）功能，能够在一定程度上胜任这项工作。
 
-Word 这类「所见即所得 ([WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG))」的编辑工具经常被拿来和以 LaTeX 为代表的「所想即所得 ([WYWIWYG](https://blogs.sap.com/2007/04/04/wywiwg-what-you-want-is-what-you-get/))」编辑工具相比较。这里我们可以来比较一下二者对于文章结构强调程度的不同。不论什么样的 LaTeX 入门资料，都一定会在入门阶段讲到 `\section`、`\subsection`和`\subsubsection`，分别对应文章中的一级标题、二级标题和三级标题，当然在标准 report 或者 book 文档类中还有 `\chapter`，可见 LaTeX 从一开始就非常强调文档结构。相比较而言，Word 就不太重视了，大多数人打开 Word 就是直接开始写，所有的内容都是「正文」。
+Word 这类「所见即所得 ([WYSIWG](https://en.wikipedia.org/wiki/WYSIWYG))」的编辑工具经常被拿来和以 LaTeX 为代表的「所想即所得 ([WYWIWYG](https://blogs.sap.com/2007/04/04/wywiwg-what-you-want-is-what-you-get/))」编辑工具相比较。这里我们可以来比较一下二者对于文章结构强调程度的不同。不论什么样的 LaTeX 入门资料，都一定会在入门阶段讲到 `\section`、`\subsection` 和 `\subsubsection`，分别对应文章中的一级标题、二级标题和三级标题，当然在标准 report 或者 book 文档类中还有 `\chapter`，可见 LaTeX 从一开始就非常强调文档结构。相比较而言，Word 就不太重视了，大多数人打开 Word 就是直接开始写，所有的内容都是「正文」。
 
 不过 Word 上方样式菜单栏所占空间并不小，用过 Word 的人应该都见过这一部分，只是微软并没有把它做得那么显眼或者必不可少。
 

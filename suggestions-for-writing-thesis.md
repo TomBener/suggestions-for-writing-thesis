@@ -191,7 +191,7 @@ test
 
 ![](https://i.loli.net/2019/10/05/LbmXSGkdYT4cjw1.png)
 
-Git 仓库创建完成后，点击左上角的 `History`，可以看到一个 `Initial commit`，即首次提交，这是在刚刚创建 Git 仓库时完成的。每一个文件的右边都有一个绿色的加号，表明首次提交添加了 `tset` 文件夹里的所有文件。接下来 `test` 文件夹里任何文件的变化都在 Git 的掌控之下。
+Git 仓库创建完成后，点击左上角的 `History`，可以看到一个 `Initial commit`，即首次提交，这是在刚刚创建 Git 仓库时完成的。每一个文件的右边都有一个绿色的加号，表明首次提交添加了 `test` 文件夹里的所有文件。接下来 `test` 文件夹里任何文件的变化都在 Git 的掌控之下。
 
 ![](https://i.loli.net/2019/10/05/T78HwSMzJoKsmnt.png)
 
